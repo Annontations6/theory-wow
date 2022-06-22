@@ -1,8 +1,3 @@
-// Changelog:
-/*
-v1.0.0:Release!
-*/
-
 import { ExponentialCost, FreeCost, LinearCost } from "./api/Costs";
 import { Localization } from "./api/Localization";
 import { BigNumber } from "./api/BigNumber";
